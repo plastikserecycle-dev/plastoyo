@@ -1,0 +1,7 @@
+uploads/images/*
+uploads/videos/*
+uploads/transferts/*
+!uploads/.gitkeep
+!uploads/images/.gitkeep
+!uploads/videos/.gitkeep
+!uploads/transferts/.gitkeep
